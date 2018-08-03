@@ -69,6 +69,14 @@ body, html{
   background-repeat: no-repeat;
   background-size: cover;
 }
+@media screen and (max-width: 425px){
+  .glyphs{
+    font-size: 25px;
+    color: lightgrey;
+    padding: 0px;
+    height: 25px;
+  }
+}
 @media screen and (max-width: 768px){
   .vline{
     border-bottom: 1px solid #ccc;
