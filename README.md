@@ -16,54 +16,6 @@
 
 ---
 
-### Bootstrap
-
-The majority of my portfolio was created using Bootstrap framework.
-
-
----
-
-### Grid layout
-
-text
-
----
-### Mobile first
-
-text
-
----
-
-### Bootstrap nav
-
-text
-
----
-
-### Google fonts
-
-text
-
----
-
-### Glyphs
-
-text
-
----
-
-### Github page
-
-text
-
----
-
-### Backgrounds
-
-text
-
----
-
 ### User Story
 #### wireframe  
 The following wireframes show a vague design I used to create my portfolio.  
